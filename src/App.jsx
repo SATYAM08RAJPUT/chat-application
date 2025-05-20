@@ -1,7 +1,12 @@
 import "./App.css";
+import Chat from "./Chat/chat";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <Chat />
+    </>
+  );
 }
 
 export default App;
